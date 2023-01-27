@@ -84,7 +84,7 @@ app.post("/uploadProfilePicture",function (req, res, next) {
 
 
 
-function myfunction(filename){
+this.myfunction=function (filename){
 
  
     const inputPath = path.resolve(__dirname,'./files/',filename);

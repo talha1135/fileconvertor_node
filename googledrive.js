@@ -86,26 +86,10 @@ async function listFiles(authClient) {
   console.log('Files:');
   var latest=files.at(-1);
   console.log(latest);
-  filedownload(latest);
-  
-  
+  var filedownload = require("./filedownload.js");
+  output = filedownload.ping(latest);
 
 }
 
-function filedownload(latest){
-  const url = "https://www.tutorialspoint.com/cg/images/cgbanner.jpg";
-
-  https.get(url, (res) => {
-     const path = "downloaded-image.jpg";
-     const writeStream = fs.createWriteStream(path);
-
-     res.pipe(writeStream);
-
-     writeStream.on("finish", () => {
-        writeStream.close();
-        console.log("Download Completed!");
-     })
-  })
-}
 
 authorize().then(listFiles).catch(console.error);
