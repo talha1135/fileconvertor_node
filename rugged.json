@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rugged-diagram-375519",
+  "private_key_id": "bdb43b3caa424eb5fcddb4621b5d12f775f6a7a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEPcNHdMAK3Xfm\nSdsuOx8UmoBsaC6ct5GVgW2wTuV27Y1n10Nenz7y86M9c5P94WYHskMdQ+sRMFpX\nhVC7iie0cJxxRmic/J6GL5Efon2as2/lOqjePiAR8fd98p0MedNvjk387IQvNCOc\n7fl49ca3E/V1mAmoWOnUndG8XKjqKJEAwcnJK1/HEylkBB9i8cotQ8EKs0dU77Gd\n9wg+h5WPJDAhy4AluxMY7wDZyZL2AzXo64BdjwoRW7ksn/bj6wgPR34SjWvpFCzu\ng/GQWFa7fek/fPSnUXbGiLLJYoavQzIWTRbUl+dTq+XGomyhZnwGMs5OtEUXfsi6\nCLhkB3ArAgMBAAECggEAQjklgSOg+wmpwIkD8iH5ZxaMaAjwUeqQsocu4OR/Axc/\nNN+r2G6c65fUapRqSK6bo9VAWMvms7JBim9uwxroMzgdUwyTmQaW6Gl869QF1wLe\nq9iTzAvi/qtM/a+119P0yhyXrNaT9On/aqHUIkGugXG2z6wy9iCrKBjqAkqypfHa\n0f/HcLwaWS1VvlAhO89JYFHx6FUQjtKNaYZGtMEW8Z77L54QVhvNlbwWI6+19hma\nE+m9vcjUthZBA7+y9La2zMBz4NYy/YTGzMwBhfc6ZV1TbbHLgRhytN2U6z18Oz3Z\nYgw8nvHEz1l/D3EnDPA6ko8ZpjSsq4R4tDkn91o0AQKBgQDzcOD4Ln+60Ey9dVy8\nLfFh56kZvGpCfyECQyXSxkg5LfL2qqzzdbny4ZLjCZfmj8SzseOLH+2728wQyqY/\nFTTiV1i1FcZtCG95B0R+3v+7SVQBN4aX78rxAjPPvcxFCESHfJuCm42YbutQSr5f\ntS8fMmySuv6bZOzvXOux4yUaqwKBgQDOXYTBTNffbX7OU52H1QNPgVc2iSVnIlqO\n/T7wuTXrO/GY3Lx74M3rjcj46eqJGMmAzvKj5RJ7vGcP183W3vGmcT1CMHjLcKSn\nGx6APHkPbISl1OC5v8SFtJX3RPkF9iVd+Q4+TArd2+2nTJGDPqQVcdPjorsL/jZ+\nd1g+Gv8AgQKBgQCX4ImKbMAllcT6wli70lHxCe2W79S/bb7zQV88k5YFjmQxfiPu\ntDjxjcftO1P4dSN8FHRonN/dvvAeXb/ARYO73lCqkU49QfEB6gXSvV+AwevV4oVn\nDyRmnkAi0D+7pb/TY2tF3bRGMJVAf5Er9sbSSMwx8tXbruifITKuxY6lhwKBgQC0\nrvL+YC6ehHtDYbiK5nnIkeFvcXMbMtwBWEBUeoV4Gfr1sUciW3lQZcryDbT5Joe/\nTPLrhzTAu/usxnGGUZtY9MsC+fe5gD3ZxgfVlZ0VYRlfLN06JWqG+s9XOb+jdZnQ\nBrFu4BufluEk2wiI1j7KO+ie5atJ2+GQpyPO9MoSgQKBgA7QCkilK4RDAA5zMBHq\nzyJKGDQAyqTbo1j1O2sAg4INcOd4nyWZRP+e355LVho20Q/HCC9mn5sTNxltPVwH\n+eLW6uRKvlNOTsDWWCx+o5NIROPi/jEsjGWSdmRGgLpCYMCgJzA7KWkxPSUg8iUt\nXNTKx/YWpHVOtOtnmxNdyBmh\n-----END PRIVATE KEY-----\n",
+  "client_email": "csi-test-test@rugged-diagram-375519.iam.gserviceaccount.com",
+  "client_id": "111592865211078921908",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/csi-test-test%40rugged-diagram-375519.iam.gserviceaccount.com",
+  "GOOGLE_APPLICATION_CREDENTIALS":"./rugged.json"
+}
